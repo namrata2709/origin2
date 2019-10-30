@@ -1,1 +1,1 @@
-web: gunicorn shastrakalyan.wsgi —-log-file -
+web: gunicorn src.wsgi 
